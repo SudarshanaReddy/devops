@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: configmap
+metadata:
+  name: app-config
+data:
+  APP-COLOR: BLUE
+  BACKGROUND-COLOR: GREEN
